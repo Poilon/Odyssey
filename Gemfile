@@ -51,4 +51,5 @@ end
 group :test do
   gem 'rspec', '2.14.1'
   gem 'webrat', '0.7.3'
+  gem 'spork-rails', :github => 'sporkrb/spork-rails'
 end
